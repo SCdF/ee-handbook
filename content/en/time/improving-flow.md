@@ -7,7 +7,7 @@ category: Managing time
 
 Meeting load, Interviews and Page Load are three of the most common disruptors to flow for engineering teams.  They are required activities for well-functioning teams but require careful management to stay efficient.  Left unchecked these activities tend to take up increasing amounts of time and become more costly for the productivity of your team.
 
-## Best pratices to reduce fragmentation and meeting load
+## Best practises to reduce fragmentation and meeting load
 
 - **Align 1/1s to the team's schedule instead of the manager's:** As a manager, there's always the temptation to batch your 1/1s into chunks so that they work well for your schedule. 1/1s can be a big source of calendar fragmentation on a given day if they’re not carefully scheduled.  They also typically happen every week so getting these right can have recurring benefits.
 
